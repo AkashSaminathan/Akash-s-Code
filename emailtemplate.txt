@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME},
+
+this is an email
+sent from my automated
+python program
+
+Akash
